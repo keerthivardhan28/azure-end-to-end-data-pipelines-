@@ -67,5 +67,5 @@ Only records greater than the last watermark value are ingested during each pipe
 ---
 
 ## Author
-Keerthi Vardhan  
+Keerthivardhan  
 Aspiring Data Engineer | Azure | SQL | ADF
