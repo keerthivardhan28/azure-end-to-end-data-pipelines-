@@ -65,6 +65,29 @@ Only records greater than the last watermark value are ingested during each pipe
 - Production-ready design
 
 ---
+## Pipeline Screenshots
+
+### 1. Pipeline Overview
+![Pipeline Overview](screenshots/01_pipeline_overview.png)
+
+### 2. Metadata Lookup Configuration
+![Lookup Metadata](screenshots/02_lookup_metadata.png)
+
+### 3. Lookup Output (Metadata Table)
+![Lookup Output](screenshots/03_lookup_metadata_output.png)
+
+### 4. ForEach Items Expression
+![ForEach Items](screenshots/04_foreach_items_expression.png)
+
+### 5. Copy Activity – Dynamic Query
+![Copy Dynamic Query](screenshots/05_copy_activity_dynamic_query.png)
+
+### 6. Copy Activity – Sink (Metadata Driven Path)
+![Copy Sink](screenshots/06_copy_activity_sink_metadata_driven.png)
+
+### 7. Pipeline Run – Success
+![Pipeline Run Success](screenshots/07_pipeline_run_success.png)
+
 
 ## Author
 Keerthivardhan  
